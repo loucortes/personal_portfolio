@@ -1,0 +1,21 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 50px;
+    background-color: black;
+
+    p{
+        font-size: 25px;
+    }
+
+    li{
+        font-size: 20px;
+    }
+}
+
+.nav-items{
+    display: flex;
+    gap: 60px;
+
+    list-style: none;
+}
