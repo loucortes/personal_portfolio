@@ -1,0 +1,39 @@
+.hero {
+  height: calc(100vh - 120px);
+  font-size: 45px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero-container {
+  text-align: center;
+  margin-top: -150px;
+  letter-spacing: 2px;
+  word-spacing: 5px;
+
+  button {
+    padding: 20px 35px;
+    font-size: 20px;
+    font-weight: 600;
+    cursor: pointer;
+    margin-top: 30px;
+    background-color: #1f2937;
+    border: 2px solid rgba(28, 124, 183, 0.624);
+    border-radius: 10px;
+    color: white;
+    transition: 0.3s;
+  }
+
+  button:hover{
+    background-color:rgba(28, 124, 183, 0.673);
+  }
+
+  span {
+    background: linear-gradient(to right, rgb(47, 182, 227) ,#da2598, #cd5611);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+  }
+}
+

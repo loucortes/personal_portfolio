@@ -1,5 +1,6 @@
 import './App.css'
 import Navbar from './Navbar/Navbar'
+import Hero from './Hero/Hero'
 
 function App() {
   return (
@@ -10,6 +11,9 @@ function App() {
       </div>
 
       <Navbar />
+      <main>
+        <Hero/>
+      </main>
     </>
   )
 }

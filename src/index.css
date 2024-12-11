@@ -7,6 +7,7 @@
 }
 
 body{
+  overflow-x: hidden;
   background-color: #1a1c3a;
   color: white;
   font-family: Inter, Inter Prevent Layout Shift, ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", Segoe UI Symbol, "Noto Color Emoji";

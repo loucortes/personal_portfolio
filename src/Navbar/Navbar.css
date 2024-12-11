@@ -1,7 +1,7 @@
 .navbar{
     display: flex;
     justify-content: space-between;
-    padding: 30px 80px;
+    padding: 30px 200px;
     background-color: transparent;
     backdrop-filter: blur(40px) grayscale(20%);
 
