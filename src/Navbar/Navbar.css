@@ -4,6 +4,9 @@
     padding: 30px 200px;
     background-color: transparent;
     backdrop-filter: blur(40px) grayscale(20%);
+    position: sticky;
+    top: 0;
+    z-index: 5;
 
     p{
         font-size: 25px;

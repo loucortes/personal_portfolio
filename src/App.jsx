@@ -1,6 +1,7 @@
 import './App.css'
 import Navbar from './Navbar/Navbar'
 import Hero from './Hero/Hero'
+import Projects from './Projects/Projects'
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Navbar />
       <main>
         <Hero/>
+        <Projects/>
       </main>
     </>
   )

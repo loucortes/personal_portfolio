@@ -1,5 +1,5 @@
 .hero {
-  height: calc(100vh - 120px);
+  height: calc(100vh - 90px);
   font-size: 45px;
   display: flex;
   justify-content: center;

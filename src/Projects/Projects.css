@@ -1,0 +1,8 @@
+.projects{
+    /* height: 100vh; */
+    backdrop-filter: blur(50px) grayscale(30%);
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    padding: 100px 200px;
+    gap: 50px;
+}
