@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
 *{
   padding: 0;
   margin: 0;
@@ -5,6 +7,7 @@
 }
 
 body{
-  background-color: #222;
+  background-color: #1a1c3a;
   color: white;
+  font-family: Inter, Inter Prevent Layout Shift, ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", Segoe UI Symbol, "Noto Color Emoji";
 }
