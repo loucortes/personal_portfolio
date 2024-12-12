@@ -3,7 +3,7 @@ function Card() {
   return (
     <div className='card'>
       <div className="card-container">
-        <img src="images/MainAfter.jpg" alt="" />
+        <img src="images/foto_suenios.PNG" alt="" />
 
         <div className="card-description">
           <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit doloribus voluptas rerum quis modi, ab laudantium mollitia dolore. Earum, quia!</p>
