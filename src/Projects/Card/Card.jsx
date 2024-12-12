@@ -12,7 +12,7 @@ function Card() {
             <button>View Project</button>
 
             <div className='card-technologies'>
-              <img src="./javascript-logo-svgrepo-com.svg" alt="" />
+              <img src="images/javascript-logo-svgrepo-com.svg" alt="" />
               <img src="src\assets\react-svgrepo-com.svg" alt="" />
               <img src="src\assets\node-js-svgrepo-com.svg" alt="" />
               <img src="src\assets\postgresql-svgrepo-com.svg" alt="" />
