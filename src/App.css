@@ -6,7 +6,7 @@
     z-index: -5;
     top: 600px;
     right: -20px;
-    background-color: rgb(43, 175, 211);
+    background-color: red;
     filter: blur(200px) brightness(1) contrast(100%);
 }
 
@@ -14,7 +14,7 @@
     width: 200px;
     height: 200px;
     border-radius: 50%;
-    background-color: red;
+    background-color: rgb(43, 175, 211);
     position: absolute;
     z-index: -6;
     filter: blur(200px) brightness(0.7) contrast(200%);
